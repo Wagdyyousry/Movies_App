@@ -31,6 +31,7 @@ class _DetailsScreenState extends State<DetailsScreen> {
           SliverAppBar.large(
             elevation: 12,
             shadowColor: Colors.black,
+
             leading: Container(
               height: 40,
               width: 40,
@@ -142,5 +143,9 @@ class _DetailsScreenState extends State<DetailsScreen> {
         ],
       ),
     );
+  }
+
+  void emptyFun(){
+    
   }
 }
