@@ -146,6 +146,6 @@ class _DetailsScreenState extends State<DetailsScreen> {
   }
 
   void emptyFun(){
-    
+
   }
 }
